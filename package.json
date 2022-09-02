@@ -1,0 +1,14 @@
+{
+  "name": "xhlsi",
+  "version": "1.0.0",
+  "description": "Xeeder Hotel Lock System Interface module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "Xeeder"
+  ],
+  "author": "Dmitry A. Fedunets <dmitry.fedunets@gmail.com>",
+  "license": "ISC"
+}
